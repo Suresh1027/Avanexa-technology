@@ -1,0 +1,26 @@
+.main {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+.tasklistcon {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    box-shadow: 0 0 5px;
+    background-color: rgb(208, 214, 212);
+}
+.tasklistcon h3{
+    color: rgb(88, 89, 90);
+}
+.tasklistcon span{
+    color: rgb(37, 36, 36);
+}
